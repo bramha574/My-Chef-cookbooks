@@ -2,7 +2,7 @@
 # Cookbook:: tomcat_install
 # Recipe:: default
 #
-# Copyright:: 2017, The Authors, All Rights Reserved.
+# Scripted: Bramha
 
 
 package 'java-1.7.0-openjdk-devel'
